@@ -4,7 +4,7 @@ It's a fun chatting application where you can join rooms and talk to different p
 
 // To run the application 
 
-// run npm intall to download node modules
+// run npm install to download node modules
 
 // run the command npm run dev in your terminal 
 
